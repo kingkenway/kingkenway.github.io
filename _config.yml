@@ -47,6 +47,10 @@ projects:
   # youtube: your_username
 
 topics:
+  - name: Go
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
+    
   - name: Google Cloud
     web_url: https://github.com/topics/google-cloud-platform
     image_url: https://avatars0.githubusercontent.com/u/2810941?s=200&v=4
