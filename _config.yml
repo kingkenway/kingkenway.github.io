@@ -51,10 +51,10 @@ topics:
     web_url: https://github.com/topics/google-cloud-platform
     image_url: https://avatars0.githubusercontent.com/u/2810941?s=200&v=4
 
-  - name: Data Science
-    web_url: https://github.com/topics/data-science
-    image_url: https://miro.medium.com/max/655/1*RqZtWmB7eMyIbJufBcxlUw.png
-
   - name: AWS
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: Data Science
+    web_url: https://github.com/topics/data-science
+    image_url: https://miro.medium.com/max/655/1*RqZtWmB7eMyIbJufBcxlUw.png
